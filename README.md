@@ -4,7 +4,7 @@ A modern weather forecast application built with **Python's Tkinter GUI**, integ
 
 ## 🖼️ Preview
 
-![App Screenshot]("https://github.com/PeterBagchi/Weather_app/blob/main/Weather_app.png?raw=true")
+![image alt]()
 
 ---
 
